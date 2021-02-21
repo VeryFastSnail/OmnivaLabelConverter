@@ -1,4 +1,4 @@
-<div align="center">[![omniva](https://github.com/VeryFastSnail/OmnivaLabelConverter/raw/main/src/banner.jpg "omniva")](https://github.com/VeryFastSnail/OmnivaLabelConverter/raw/main/src/banner.jpg "omniva")</div>
+<div align="center"> <img src="https://github.com/VeryFastSnail/OmnivaLabelConverter/raw/main/src/banner.jpg" style="max-width:300px" alt="omniva"></div>
 
 # OmnivaLabelConverter
 Creates and opens pdf that is compatable for shipping label printer. Mine is zebra lp2844.
